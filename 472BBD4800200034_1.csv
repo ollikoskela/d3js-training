@@ -1,4 +1,4 @@
-,timestamp_POSIX,battery_voltage_mV,temperature_C,volume_m3perm3,conductivity_uSpercm
+,timestamp_POSIX,battery_voltage_mV,temperature_C,volume_m3_perm_3,conductivity_uS_per_cm
 0,1587387889.0,3540.0,8.5,0.293,106.0
 1,1587388489.0,3540.0,8.7,0.293,106.0
 2,1587389089.0,3540.0,8.7,0.293,107.0
